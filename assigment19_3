@@ -1,0 +1,28 @@
+{
+	"Social": [
+		{
+		"sender" : "me",
+		"title": "Test email",
+		"sub_title" : "this is test email",
+		"important_flag" : 1,
+		"stared_flag" : 0,
+		"received_date" : "OCT 26"
+		},
+		{
+		"sender" :"WordPress.com News",
+		"title" :"[New po..] Longreads' best of",
+		"sub_title" : "Mark Amstrong posted",
+		"important_flag" : 0,
+		"stared_flag" : 0,
+		"received_date" : "OCT 22"
+		},
+		{
+		"sender" :"Sochet Thea",
+		"title" :"I'd like to add you to my professional",
+		"sub_title" : "LinkedIn Sochet Thea Global",
+		"important_flag" : 1,
+		"stared_flag" : 0,
+		"received_date" : "OCT 20"
+		},
+		...
+	]
